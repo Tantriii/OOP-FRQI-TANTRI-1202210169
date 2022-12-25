@@ -11,7 +11,7 @@ public class Main {
             customerID = input.nextInt();
             
 
-            System.out.println("Enter how much coffee to made: ");
+            System.out.println("Enter how much food to made: ");
             orderQty = input.nextInt();
 
             Thread t1 = new Thread(machine);
